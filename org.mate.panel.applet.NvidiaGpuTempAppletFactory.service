@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.mate.panel.applet.NvidiaGpuTempAppletFactory
+Exec=/usr/libexec/applets/nvidia-gpu-temp.py
+

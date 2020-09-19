@@ -1,0 +1,11 @@
+[Applet Factory]
+Id=NvidiaGpuTempAppletFactory
+Location=/usr/libexec/applets/nvidia-gpu-temp.py
+Name=Nvidia GPU Temperature Factory
+Description=Nvidia GPU Temperature Factory
+ 
+[NvidiaGpuTempApplet]
+Name=Nvidia GPU Temperature
+Description=Outputs Nvidia GPU Temperature
+Icon=desktop
+
